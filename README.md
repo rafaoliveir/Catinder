@@ -14,4 +14,4 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <p align="center">
 <img width="600px" src="/images/tela1.png"></p>
 
-<p align="center"> https://rafaoliveir.github.io/Catinder/
+<p align="center"> rafaoliveir.github.io/Catinder/
